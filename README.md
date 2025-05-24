@@ -13,7 +13,7 @@
 ---
 
 ## 📦 Installation
-1. **Download** the plugin zip file from the [releases page](https://github.com/BluBallZ/Filetree-Auto-Expand-Plugin-MO2/releases/tag/v1.0).
+1. **Download** the plugin zip file from the [releases page](https://github.com/BluBallZ/Filetree-Auto-Expand-Plugin-MO2/releases).
 2. **Extract** the contents to your Mod Organizer 2 `plugins` directory:  
    
    Example: C:\Modding\MO2\plugins
