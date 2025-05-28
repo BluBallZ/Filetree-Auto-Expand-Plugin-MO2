@@ -27,7 +27,7 @@ Once installed, the plugin *automatically* expands the filetree in the **Filetre
 ---
 
 ## 🔍 Compatibility
-- Tested with **Mod Organizer 2 version 2.5.3 - Beta 1**.
+- Tested with **Mod Organizer 2 version 2.5.3 - Beta 2**.
 - May work with other versions, but compatibility is not guaranteed.
 
 ---
@@ -41,4 +41,4 @@ Once installed, the plugin *automatically* expands the filetree in the **Filetre
 
 ---
 
-*Last updated on May 24th, 2025*
+*Last updated on May 28th, 2025*
