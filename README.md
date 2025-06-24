@@ -1,7 +1,7 @@
 # Filetree Auto-Expand Plugin for Mod Organizer 2
 
   
-*Automatically expands the filetree in the <span style="color: #00cc00">Filetree tab</span> and <span style="color: #00cc00">manual install window</span> of Mod Organizer 2.*
+*Automatically expands the filetree in the <span style="color: #00cc00">Filetree tab</span> , <span style="color: #00cc00">Manual install</span> and <span style="color: #00cc00">Overwrite window</span> of Mod Organizer 2.*
 
 ---
 
@@ -22,7 +22,7 @@
 ---
 
 ## 🛠️ Usage
-Once installed, the plugin *automatically* expands the filetree in the **Filetree tab** and **manual install window** whenever you open them. No configuration needed!
+Once installed, the plugin *automatically* expands the filetree in the **Filetree tab** , **Manual install** and **Overwrite window** whenever you open them. No configuration needed!
 
 ---
 
@@ -41,4 +41,4 @@ Once installed, the plugin *automatically* expands the filetree in the **Filetre
 
 ---
 
-*Last updated on May 28th, 2025*
+*Last updated on June 24th, 2025*
